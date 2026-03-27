@@ -1,0 +1,27 @@
+/* Add CSS Styling */
+.num1{
+    background-color: rgb(255, 167, 167);
+    font: Verdana;
+}
+
+#num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.num3{
+    background-color: rgb(255, 167, 167);
+    font-size: 24px;
+    font: DejaVu Sans;
+}
+
+#num4{
+    font-size: 24px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+
+.num5 {
+    background-color: rgb(255, 167, 167);
+    font: sans-serif;
+}

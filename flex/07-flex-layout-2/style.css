@@ -27,3 +27,27 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+.box1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.box2 {
+  display: flex;
+}
+.sidebar {
+  padding: 50px;
+  flex-shrink:0;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 30;
+}
